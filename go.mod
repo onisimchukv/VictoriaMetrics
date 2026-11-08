@@ -24,7 +24,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/googleapis/gax-go/v2 v2.22.0
 	github.com/influxdata/influxdb v1.12.4
-	github.com/klauspost/compress v1.18.6
+	github.com/klauspost/compress v1.18.7
 	github.com/oklog/ulid/v2 v2.1.1
 	github.com/prometheus/prometheus v0.312.0
 	github.com/urfave/cli/v2 v2.27.7
